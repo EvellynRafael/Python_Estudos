@@ -1,7 +1,7 @@
 print("Atividade 2, notas dos alunos")
 
 num_aluno = []
-reprovado - []
+reprovado = []
 
 for i in range(0,10):
 
